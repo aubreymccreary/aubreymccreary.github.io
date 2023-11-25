@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: pink;
+}
+
+h1 {
+    text-align: center; background-color: yellow;
+    font-family: Arial;
+    font-size: 100px;
+}
+
+ul {
+    list-style: none;
+    font-size: 50px;
+    font-family: Helvetica;
+}
+
+p.aboutme {
+    font-family: Arial;
+    font-size: 30px;
+}
